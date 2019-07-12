@@ -2,6 +2,7 @@
 #include<stdlib.h>
 int add(int a, int b){
 	printf("Value a: %d \n", a);
+	printf("Value b: %d \n", b);
 	return a + b;
 }
 
