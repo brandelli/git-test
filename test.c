@@ -12,6 +12,6 @@ int main(){
 	int b = 2;
 	int c = 3;
 	int sum = add(a, b, c);
-	printf("Sum = %d \n", sum);
+	printf("Sum = %d\n", sum);
 	return 0;
 }
